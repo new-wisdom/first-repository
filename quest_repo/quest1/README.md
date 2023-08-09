@@ -1,8 +1,8 @@
 # AIFFEL Socar Campus Code Peer Review Templete
 
-코더 : [코드 작성자]
+코더 : 신지혜
 
-리뷰어 : [리뷰어]
+리뷰어 : 김민지
 
 ## PRT(PeerReviewTemplate)
 
