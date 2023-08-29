@@ -2,7 +2,7 @@
 
 코더 : [신지혜]
 
-리뷰어 : [리뷰어]
+리뷰어 : [허지은]
 
 ## PRT(PeerReviewTemplate)
 
